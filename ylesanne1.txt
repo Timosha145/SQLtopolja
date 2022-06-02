@@ -6,3 +6,5 @@ DELETE FROM table
 SELECT * FROM table
 ORDER BY Nimi=('Буква%')
 3. Как выглядит запрос на вывод процедуры?
+use Процедура;
+exec таблица;
